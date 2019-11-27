@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  
+    <classes>
+      <class name="product_test"/>
+      <class name="ASN_sellerpage"/>
+      <class name="warehouse_delevery"/>
+      <class name="warehouse_delivery_details"/>
+    </classes>
+  
+ </suite> 
+  
+<!--   <test  name="multi_poly_v_belt">
+    <classes>
+      <class name="product_test"/>
+    </classes>
+  </test> 
+</suite>   -->
